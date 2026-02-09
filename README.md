@@ -7,7 +7,7 @@
 
 ![Marilia GitHub stats](https://github-readme-stats.vercel.app/api?username=MariliaFeitosa&show_icons=true&theme=radical)
 
-### Tecnologias que uso no meu dia
+### Product Designer | UI/UX | Project Management | Python Developer in Progress
 
 <div style="display: inline_block"><br/>
     <img aling= "center" alt= "Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
